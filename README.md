@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Full+Stack+Developer&font=Fira+Code&center=true&width=500&height=45&vCenter=true&pause=1200&size=24&color=00CFFF" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Full+Stack+Developer&font=Fira+Code&center=true&width=500&height=45&vCenter=true&pause=1200&size=24&color=808080" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="center" style="display:flex; gap:25px; justify-content:center;">
+<p>
   <a href="https://instagram.com/mai.mohit7">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
@@ -36,7 +36,7 @@
 
 ## 💻 Tech Stack
 
-<p align="center" style="display:flex; gap:18px; justify-content:center; flex-wrap:wrap;">
+<p>
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=js" />
