@@ -57,9 +57,11 @@
 
 ## 📊 GitHub Stats
 
- ![](https://github-readme-stats.vercel.app/api?username=MOHITSINGHBORA&theme=dark&hide_border=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=MOHITSINGHBORA=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHITSIGHBORA&theme=dark&hide_border=false&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api?username=MOHITSINGHBORA&theme=dark&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=MOHITSINGHBORA&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHITSINGHBORA&theme=dark&hide_border=false&layout=compact)
 
 ---
 
